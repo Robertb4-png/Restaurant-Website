@@ -1,3 +1,18 @@
-head{
-    background-image: url(https://i0.wp.com/www.drdavidludwig.com/wp-content/uploads/2017/01/1-RIS_6IbCLYv1X3bzYW1lmA.jpeg?fit=800%2C552&ssl=1);
+body{
+    background-image: url(https://img.freepik.com/free-photo/vegetables-set-left-black-slate_1220-685.jpg?semt=ais_hybrid);
+    background-size: cover;
+    background
+}
+#img1 {
+    width:100px;
+    position:absolute;
+    right: 200px;
+    top:500px;
+}
+
+#img2 {
+    width:100px;
+    position:absolute;
+    right:500px;
+    top:100px
 }

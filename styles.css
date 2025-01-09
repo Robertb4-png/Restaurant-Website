@@ -7,44 +7,44 @@ body{
 #img1 {
     width:300px;
     position:absolute;
-    left:10px;
-    top:200px;
+    left:200px;
+    top:300px;
      z-index:1;
 }
 #naruto {
     width:300px;
     position:absolute;
-    left:10px;
+    left:800px;
     top:200px;
-    z-index:2;
 }
 #sasuke {
     width:300px;
     position:absolute;
-    left:10px;
-    top:200px;
-    z-index:3;
+    left:500px;
+    top:300px;
+    z-index:2;
 }
 #valt {
     width:300px;
     position:absolute;
-    left:10px;
-    top:200px;
-    z-index:4;
+    left:2011px;
+    top:600px;
 }
 #well {
     width:300px;
     position:absolute;
     left:10px;
     top:200px;
+    z-index:3;
+}
 #br {
     width:300px;
     position:absolute;
-    left:10px;
-    top:200px;
-    z-index:4;
+    left:800px;
+    top:300px;
 }
-footer{
-    background-color: black;
-    border-style: dotted;
+.pizza {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
